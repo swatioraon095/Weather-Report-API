@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
  
 # Enter your API key
-api_key = "b189071cfaff524dd485bca3e9bf234e"
+api_key = "write your api here"
  
 api_url = "http://api.openweathermap.org/data/2.5/weather?"
 
